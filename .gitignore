@@ -1,7 +1,7 @@
 #игнорирование файлов и каталогов
 tmp/
 #файлы
-*._old
-*._backup
+.*_old
+.*_backup
 Thumbs.db
 .DS_Store
